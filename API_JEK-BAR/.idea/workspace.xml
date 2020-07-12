@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2b49cb-cca9-4a63-9a04-4e5e50a8bbb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dZymoZC7PlZQ68riDHQfXIOtL9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Projek Kawan/Abi/Api/ApiServisMotor" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Semester 4\Pemrograman 3 Pak Dwi\Project\Api\API_JEK-BAR\routes" />
+      <recent name="D:\Semester 4\Pemrograman 3 Pak Dwi\Project\Api\API_JEK-BAR\model" />
+      <recent name="D:\Semester 4\Pemrograman 3 Pak Dwi\Project\Api\API_JEK-BAR\controller" />
+      <recent name="D:\Semester 4\Pemrograman 3 Pak Dwi\Project\Api\API_JEK-BAR" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2b49cb-cca9-4a63-9a04-4e5e50a8bbb8" name="Default Changelist" comment="" />
+      <created>1592647071735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592647071735</updated>
+      <workItem from="1592647072887" duration="599000" />
+      <workItem from="1592666829563" duration="599000" />
+      <workItem from="1592706486905" duration="8307000" />
+      <workItem from="1592753478045" duration="1199000" />
+      <workItem from="1592786085385" duration="1515000" />
+      <workItem from="1592792693924" duration="621000" />
+      <workItem from="1593055658407" duration="1213000" />
+      <workItem from="1594215431691" duration="6795000" />
+      <workItem from="1594474870872" duration="18790000" />
+      <workItem from="1594567874265" duration="2822000" />
+      <workItem from="1594571952960" duration="7694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1594586025542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594586025542" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1594514508984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594514508984" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1594523440698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594523440698" />
+  </component>
+</project>
